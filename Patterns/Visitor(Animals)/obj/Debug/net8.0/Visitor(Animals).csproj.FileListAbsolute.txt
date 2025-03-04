@@ -1,0 +1,14 @@
+E:\Programming\University\WebDev\Patterns\Visitor(Animals)\bin\Debug\net8.0\Visitor(Animals).exe
+E:\Programming\University\WebDev\Patterns\Visitor(Animals)\bin\Debug\net8.0\Visitor(Animals).deps.json
+E:\Programming\University\WebDev\Patterns\Visitor(Animals)\bin\Debug\net8.0\Visitor(Animals).runtimeconfig.json
+E:\Programming\University\WebDev\Patterns\Visitor(Animals)\bin\Debug\net8.0\Visitor(Animals).dll
+E:\Programming\University\WebDev\Patterns\Visitor(Animals)\bin\Debug\net8.0\Visitor(Animals).pdb
+E:\Programming\University\WebDev\Patterns\Visitor(Animals)\obj\Debug\net8.0\Visitor(Animals).GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\University\WebDev\Patterns\Visitor(Animals)\obj\Debug\net8.0\Visitor(Animals).AssemblyInfoInputs.cache
+E:\Programming\University\WebDev\Patterns\Visitor(Animals)\obj\Debug\net8.0\Visitor(Animals).AssemblyInfo.cs
+E:\Programming\University\WebDev\Patterns\Visitor(Animals)\obj\Debug\net8.0\Visitor(Animals).csproj.CoreCompileInputs.cache
+E:\Programming\University\WebDev\Patterns\Visitor(Animals)\obj\Debug\net8.0\Visitor(Animals).dll
+E:\Programming\University\WebDev\Patterns\Visitor(Animals)\obj\Debug\net8.0\refint\Visitor(Animals).dll
+E:\Programming\University\WebDev\Patterns\Visitor(Animals)\obj\Debug\net8.0\Visitor(Animals).pdb
+E:\Programming\University\WebDev\Patterns\Visitor(Animals)\obj\Debug\net8.0\Visitor(Animals).genruntimeconfig.cache
+E:\Programming\University\WebDev\Patterns\Visitor(Animals)\obj\Debug\net8.0\ref\Visitor(Animals).dll

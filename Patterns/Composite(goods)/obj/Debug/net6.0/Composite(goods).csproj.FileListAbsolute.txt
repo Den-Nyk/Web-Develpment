@@ -1,0 +1,15 @@
+C:\Users\asd\source\C#\University\Patterns\Composite(goods)\bin\Debug\net6.0\Composite(goods).exe
+C:\Users\asd\source\C#\University\Patterns\Composite(goods)\bin\Debug\net6.0\Composite(goods).deps.json
+C:\Users\asd\source\C#\University\Patterns\Composite(goods)\bin\Debug\net6.0\Composite(goods).runtimeconfig.json
+C:\Users\asd\source\C#\University\Patterns\Composite(goods)\bin\Debug\net6.0\Composite(goods).dll
+C:\Users\asd\source\C#\University\Patterns\Composite(goods)\bin\Debug\net6.0\Composite(goods).pdb
+C:\Users\asd\source\C#\University\Patterns\Composite(goods)\obj\Debug\net6.0\Composite(goods).csproj.AssemblyReference.cache
+C:\Users\asd\source\C#\University\Patterns\Composite(goods)\obj\Debug\net6.0\Composite(goods).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asd\source\C#\University\Patterns\Composite(goods)\obj\Debug\net6.0\Composite(goods).AssemblyInfoInputs.cache
+C:\Users\asd\source\C#\University\Patterns\Composite(goods)\obj\Debug\net6.0\Composite(goods).AssemblyInfo.cs
+C:\Users\asd\source\C#\University\Patterns\Composite(goods)\obj\Debug\net6.0\Composite(goods).csproj.CoreCompileInputs.cache
+C:\Users\asd\source\C#\University\Patterns\Composite(goods)\obj\Debug\net6.0\Composite(goods).dll
+C:\Users\asd\source\C#\University\Patterns\Composite(goods)\obj\Debug\net6.0\refint\Composite(goods).dll
+C:\Users\asd\source\C#\University\Patterns\Composite(goods)\obj\Debug\net6.0\Composite(goods).pdb
+C:\Users\asd\source\C#\University\Patterns\Composite(goods)\obj\Debug\net6.0\Composite(goods).genruntimeconfig.cache
+C:\Users\asd\source\C#\University\Patterns\Composite(goods)\obj\Debug\net6.0\ref\Composite(goods).dll

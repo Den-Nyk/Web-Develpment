@@ -1,0 +1,14 @@
+E:\Programming\University\WebDev\Patterns\AbstractFactory(Cars)\bin\Debug\net8.0\AbstractFactory(Cars).exe
+E:\Programming\University\WebDev\Patterns\AbstractFactory(Cars)\bin\Debug\net8.0\AbstractFactory(Cars).deps.json
+E:\Programming\University\WebDev\Patterns\AbstractFactory(Cars)\bin\Debug\net8.0\AbstractFactory(Cars).runtimeconfig.json
+E:\Programming\University\WebDev\Patterns\AbstractFactory(Cars)\bin\Debug\net8.0\AbstractFactory(Cars).dll
+E:\Programming\University\WebDev\Patterns\AbstractFactory(Cars)\bin\Debug\net8.0\AbstractFactory(Cars).pdb
+E:\Programming\University\WebDev\Patterns\AbstractFactory(Cars)\obj\Debug\net8.0\AbstractFactory(Cars).GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\University\WebDev\Patterns\AbstractFactory(Cars)\obj\Debug\net8.0\AbstractFactory(Cars).AssemblyInfoInputs.cache
+E:\Programming\University\WebDev\Patterns\AbstractFactory(Cars)\obj\Debug\net8.0\AbstractFactory(Cars).AssemblyInfo.cs
+E:\Programming\University\WebDev\Patterns\AbstractFactory(Cars)\obj\Debug\net8.0\AbstractFactory(Cars).csproj.CoreCompileInputs.cache
+E:\Programming\University\WebDev\Patterns\AbstractFactory(Cars)\obj\Debug\net8.0\AbstractFactory(Cars).dll
+E:\Programming\University\WebDev\Patterns\AbstractFactory(Cars)\obj\Debug\net8.0\refint\AbstractFactory(Cars).dll
+E:\Programming\University\WebDev\Patterns\AbstractFactory(Cars)\obj\Debug\net8.0\AbstractFactory(Cars).pdb
+E:\Programming\University\WebDev\Patterns\AbstractFactory(Cars)\obj\Debug\net8.0\AbstractFactory(Cars).genruntimeconfig.cache
+E:\Programming\University\WebDev\Patterns\AbstractFactory(Cars)\obj\Debug\net8.0\ref\AbstractFactory(Cars).dll

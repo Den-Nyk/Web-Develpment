@@ -1,0 +1,14 @@
+E:\Programming\University\WebDev\Patterns\ChainOfResponsibility(Phones)\obj\Debug\net8.0\ChainOfResponsibility(Phones).GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\University\WebDev\Patterns\ChainOfResponsibility(Phones)\obj\Debug\net8.0\ChainOfResponsibility(Phones).AssemblyInfoInputs.cache
+E:\Programming\University\WebDev\Patterns\ChainOfResponsibility(Phones)\obj\Debug\net8.0\ChainOfResponsibility(Phones).AssemblyInfo.cs
+E:\Programming\University\WebDev\Patterns\ChainOfResponsibility(Phones)\obj\Debug\net8.0\ChainOfResponsibility(Phones).csproj.CoreCompileInputs.cache
+E:\Programming\University\WebDev\Patterns\ChainOfResponsibility(Phones)\bin\Debug\net8.0\ChainOfResponsibility(Phones).exe
+E:\Programming\University\WebDev\Patterns\ChainOfResponsibility(Phones)\bin\Debug\net8.0\ChainOfResponsibility(Phones).deps.json
+E:\Programming\University\WebDev\Patterns\ChainOfResponsibility(Phones)\bin\Debug\net8.0\ChainOfResponsibility(Phones).runtimeconfig.json
+E:\Programming\University\WebDev\Patterns\ChainOfResponsibility(Phones)\bin\Debug\net8.0\ChainOfResponsibility(Phones).dll
+E:\Programming\University\WebDev\Patterns\ChainOfResponsibility(Phones)\bin\Debug\net8.0\ChainOfResponsibility(Phones).pdb
+E:\Programming\University\WebDev\Patterns\ChainOfResponsibility(Phones)\obj\Debug\net8.0\ChainOfResponsibility(Phones).dll
+E:\Programming\University\WebDev\Patterns\ChainOfResponsibility(Phones)\obj\Debug\net8.0\refint\ChainOfResponsibility(Phones).dll
+E:\Programming\University\WebDev\Patterns\ChainOfResponsibility(Phones)\obj\Debug\net8.0\ChainOfResponsibility(Phones).pdb
+E:\Programming\University\WebDev\Patterns\ChainOfResponsibility(Phones)\obj\Debug\net8.0\ChainOfResponsibility(Phones).genruntimeconfig.cache
+E:\Programming\University\WebDev\Patterns\ChainOfResponsibility(Phones)\obj\Debug\net8.0\ref\ChainOfResponsibility(Phones).dll
